@@ -1,5 +1,15 @@
 # Fix PDF Font Size
 
+## Table des matières
+
+- [Description](#description)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+- [➡️ Utilisation](#utilisation)
+- [Fonctionnement](#fonctionnement)
+- [Options](#options)
+- [Limitations](#limitations)
+
 ## Description
 
 Ce script Python permet de corriger les tailles de police dans les champs de formulaire d'un fichier PDF. Il est particulièrement utile pour les PDFs générés par certains logiciels qui définissent des tailles de police à 0, rendant le texte invisible ou mal affiché.
