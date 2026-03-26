@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
-- [➡️ Utilisation](#utilisation)
+- ➡️ [Utilisation](#utilisation)
 - [Fonctionnement](#fonctionnement)
 - [Options](#options)
 - [Limitations](#limitations)
